@@ -3,4 +3,4 @@ You can do any thing here, but remember, don't say something bad, or attack peop
   
 And, I wish you have a good time in Storm Studio!
 
-And: If you want to use ChatGPT, you can try OpenAI-ChatGPT 3.5 API in <a href="theb.ai">LINK</a>. Good time.
+And: If you want to use ChatGPT, you can try OpenAI-ChatGPT 3.5 API in <a href="https://theb.ai">LINK</a>. Good time.
